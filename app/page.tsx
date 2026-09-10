@@ -40,8 +40,8 @@ const projects = [
     description:
       "A warm, responsive catering website designed to showcase meals beautifully and turn browsing into direct WhatsApp orders.",
     stack: ["React", "Vite", "Responsive UI"],
-    href: null,
-    status: "Client build",
+    href: "https://teewhy-bellefood.vercel.app",
+    status: "Live website",
   },
   {
     number: "04",
